@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name MYParts)(type KiCad)(uri "$(KIPRJMOD)/MYParts.pretty")(options "")(descr ""))
+  (lib (name YC_FootPrint_2021_v1)(type KiCad)(uri ${KIPRJMOD}/YC_FootPrint_2021_v1.pretty)(options "")(descr ""))
+)

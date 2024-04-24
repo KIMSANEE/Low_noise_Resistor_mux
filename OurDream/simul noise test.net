@@ -1,0 +1,16 @@
+* C:\Users\rlatk\Desktop\2021_TIA_with_OPA827\OurDream\simul noise test.asc
+XU1 0 N001 Vcc Vdd Vout ADA4625-1
+R1 N001 Vin 10Meg
+R2 0 N001 100k
+V1 Vin 0 SINE(0 1m 1k)
+V2 Vcc 0 15
+V3 0 Vdd 15
+R3 NC_01 NC_02 1Meg
+V4 Vex 0 1
+R4 Vout 0 1k
+R5 Vout N001 10Meg
+R6 NC_03 NC_04 1k
+.tran 0.01
+.lib ADA4625-1.lib
+.backanno
+.end

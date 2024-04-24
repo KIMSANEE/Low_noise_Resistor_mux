@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name New_TIA-rescue)(type Legacy)(uri ${KIPRJMOD}/New_TIA-rescue.lib)(options "")(descr ""))
+  (lib (name LIB_TIA)(type Legacy)(uri ${KIPRJMOD}/LIB_TIA.lib)(options "")(descr ""))
+  (lib (name ad743)(type Legacy)(uri ${KIPRJMOD}/ad743.lib)(options "")(descr ""))
+  (lib (name YC_2021_Lib_V1)(type Legacy)(uri ${KIPRJMOD}/YC_2021_Lib_V1.lib)(options "")(descr ""))
+)

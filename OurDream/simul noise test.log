@@ -1,0 +1,30 @@
+Circuit: * C:\Users\rlatk\Desktop\2021_TIA_with_OPA827\OurDream\simul noise test.asc
+
+WARNING: Node NC_02 is floating.
+WARNING: Node NC_04 is floating.
+
+WARNING: Less than two connections to node NC_01.  This node is used by R3.
+WARNING: Less than two connections to node NC_02.  This node is used by R3.
+WARNING: Less than two connections to node VEX.  This node is used by V4.
+WARNING: Less than two connections to node NC_03.  This node is used by R6.
+WARNING: Less than two connections to node NC_04.  This node is used by R6.
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Jul 24 14:45:04 2023
+Total elapsed time: 0.075 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2087
+traniter = 2084
+tranpoints = 1043
+accept = 1043
+rejected = 0
+matrix size = 102
+fillins = 104
+solver = Normal
+Thread vector: 7.7/4.5[5] 2.6/1.5[5] 1.2/1.1[1] 0.3/0.7[1]  2592/500
+Matrix Compiler1: 11.10 KB object code size  2.3/1.5/[0.7]
+Matrix Compiler2: 10.62 KB object code size  0.7/1.4/[0.6]
+
